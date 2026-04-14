@@ -148,4 +148,4 @@ Experiência consolidada em transformação de sistemas legados, redução de cu
 
 ### 📊 Estatística
 
-![Klaupher's GitHub stats](https://github-readme-stats.vercel.app/api?username=klaupher&show_icons=true&theme=cobalt)
+![Klaupher's GitHub stats](https://github-readme-stats.vercel.app/api?username=klaupher&show_icons=true&theme=cobalt&locale=pt-br)
